@@ -1,16 +1,13 @@
 {
-    "name": "istanbul-coveralls",
-    "version": "1.0.3",
+    "name": "@toolisticon/istanbul-coveralls",
+    "version": "1.0.0",
     "description": "A simple alias for istanbul + coveralls",
-    "repository": "shinnn/istanbul-coveralls",
-    "author": "Shinnosuke Watanabe (https://github.com/shinnn)",
     "scripts": {
         "pretest2": "eslint --config @shinnn/cli --env mocha --rule 'no-reserved-keys: 0' --ignore-path .gitignore .",
         "test": "_mocha test.js --timeout 25600",
         "coverage": "istanbul cover _mocha test.js -- --timeout 25600",
         "coveralls": "${npm_package_scripts_coverage} && ${npm_package_bin}"
     },
-    "license": "MIT",
     "bin": "cli.js",
     "files": [
         "cli.js",
@@ -42,5 +39,20 @@
         "istanbul": "^0.4.3",
         "mocha": "^5.2.0",
         "output-file": "^1.1.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/toolisticon/istanbul-coveralls.git"
+    },
+    "contributors": [
+        "Martin Reinhardt (https://hypery2k.github.io)",
+        "Shinnosuke Watanabe (https://github.com/shinnn)"
+    ],
+    "author": "Holisticon AG",
+    "license": "MIT",
+    "engine-strict": true,
+    "engines": {
+        "node": ">= 8",
+        "npm": ">= 3"
     }
 }

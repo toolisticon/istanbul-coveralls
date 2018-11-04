@@ -1,10 +1,10 @@
 # istanbul-coveralls 
 
-[![NPM version](https://img.shields.io/npm/v/istanbul-coveralls.svg)](https://www.npmjs.com/package/istanbul-coveralls)
-[![Build Status](https://travis-ci.org/shinnn/istanbul-coveralls.svg?branch=master)](https://travis-ci.org/shinnn/istanbul-coveralls)
-[![Coverage Status](https://img.shields.io/coveralls/shinnn/istanbul-coveralls.svg)](https://coveralls.io/r/shinnn/istanbul-coveralls?branch=master)
-[![Dependency Status](https://david-dm.org/shinnn/istanbul-coveralls.svg)](https://david-dm.org/shinnn/istanbul-coveralls)
-[![devDependency Status](https://david-dm.org/shinnn/istanbul-coveralls/dev-status.svg)](https://david-dm.org/shinnn/istanbul-coveralls#info=devDependencies)
+[![npm version](https://badge.fury.io/js/%40toolisticon%2Fistanbul-coveralls.svg)
+[![Build Status](https://travis-ci.org/toolisticon/istanbul-coveralls.svg?branch=master)](https://travis-ci.org/toolisticon/istanbul-coveralls)
+[![Coverage Status](https://img.shields.io/coveralls/toolisticon/istanbul-coveralls.svg)](https://coveralls.io/r/toolisticon/istanbul-coveralls?branch=master)
+[![Dependency Status](https://david-dm.org/toolisticon/istanbul-coveralls.svg)](https://david-dm.org/toolisticon/istanbul-coveralls)
+[![devDependency Status](https://david-dm.org/toolisticon/istanbul-coveralls/dev-status.svg)](https://david-dm.org/toolisticon/istanbul-coveralls#info=devDependencies)
 
 A simple alias for [istanbul](https://github.com/gotwarlost/istanbul) + [node-coveralls](https://github.com/cainus/node-coveralls)
 
@@ -57,6 +57,6 @@ istanbul cover _mocha && istanbul-coveralls
 
 ## License
 
-Copyright (c) 2014 - 2016 [Shinnosuke Watanabe](https://github.com/shinnn)
+Copyright (c) 2014 - 2016 [Shinnosuke Watanabe](https://github.com/toolisticon)
 
 Licensed under [the MIT LIcense](./LICENSE).
