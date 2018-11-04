@@ -1,6 +1,6 @@
 # istanbul-coveralls 
 
-[![npm version](https://badge.fury.io/js/%40toolisticon%2Fistanbul-coveralls.svg)
+[![npm version](https://badge.fury.io/js/%40toolisticon%2Fistanbul-coveralls.svg)](https://www.npmjs.com/package/@toolisticon/istanbul-coveralls)
 [![Build Status](https://travis-ci.org/toolisticon/istanbul-coveralls.svg?branch=master)](https://travis-ci.org/toolisticon/istanbul-coveralls)
 [![Coverage Status](https://img.shields.io/coveralls/toolisticon/istanbul-coveralls.svg)](https://coveralls.io/r/toolisticon/istanbul-coveralls?branch=master)
 [![Dependency Status](https://david-dm.org/toolisticon/istanbul-coveralls.svg)](https://david-dm.org/toolisticon/istanbul-coveralls)
@@ -57,6 +57,6 @@ istanbul cover _mocha && istanbul-coveralls
 
 ## License
 
-Copyright (c) 2014 - 2016 [Shinnosuke Watanabe](https://github.com/toolisticon)
+Copyright (c) 2018 [Holisticon AG](https://github.com/toolisticon)
 
 Licensed under [the MIT LIcense](./LICENSE).
