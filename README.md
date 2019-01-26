@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/toolisticon/istanbul-coveralls.svg?branch=master)](https://travis-ci.org/toolisticon/istanbul-coveralls)
 [![Coverage Status](https://img.shields.io/coveralls/toolisticon/istanbul-coveralls.svg)](https://coveralls.io/r/toolisticon/istanbul-coveralls?branch=master)
 [![Dependency Status](https://david-dm.org/toolisticon/istanbul-coveralls.svg)](https://david-dm.org/toolisticon/istanbul-coveralls)
-[![devDependency Status](https://david-dm.org/toolisticon/istanbul-coveralls/dev-status.svg)](https://david-dm.org/toolisticon/istanbul-coveralls#info=devDependencies)
+[![devDependency Status](https://david-dm.org/toolisticon/istanbul-coveralls/dev-status.svg)](https://david-dm.org/toolisticon/istanbul-coveralls#info=devDependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/toolisticon/istanbul-coveralls.svg)](https://greenkeeper.io/)
 
 A simple alias for [istanbul](https://github.com/gotwarlost/istanbul) + [node-coveralls](https://github.com/cainus/node-coveralls)
 
