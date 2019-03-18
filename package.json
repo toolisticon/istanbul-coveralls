@@ -35,7 +35,7 @@
     },
     "devDependencies": {
         "@shinnn/eslint-config-cli": "^3.0.1",
-        "eslint": "^5.12.1",
+        "eslint": "^5.15.3",
         "istanbul": "^0.4.3",
         "mocha": "^5.2.0",
         "output-file": "^2.0.0"
