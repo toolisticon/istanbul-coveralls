@@ -37,7 +37,7 @@
         "@shinnn/eslint-config-cli": "^3.0.1",
         "eslint": "^5.12.1",
         "istanbul": "^0.4.3",
-        "mocha": "^5.2.0",
+        "mocha": "^6.1.1",
         "output-file": "^2.0.0"
     },
     "repository": {
