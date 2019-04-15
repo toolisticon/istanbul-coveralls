@@ -38,7 +38,7 @@
         "eslint": "^5.12.1",
         "istanbul": "^0.4.3",
         "mocha": "^5.2.0",
-        "output-file": "^2.0.0"
+        "output-file": "^2.0.1"
     },
     "repository": {
         "type": "git",
