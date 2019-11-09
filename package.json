@@ -27,7 +27,7 @@
         "alias"
     ],
     "dependencies": {
-        "chalk": "^2.4.2",
+        "chalk": "^3.0.0",
         "coveralls": "^3.0.2",
         "minimist": "^1.2.0",
         "rimraf": "^2.5.2",
